@@ -9,7 +9,7 @@ const CONFIG = {
 
   MAGZINE_HOME_TITLE: '探索、记录、成长。', // 改成更符合博客主题的标题
   MAGZINE_HOME_DESCRIPTION:
-  '这里没有标准答案 (No right answers here)，只有学习的旅程 (just a journey of learning)。偶尔会分享一些心得 (Sometimes I share my thoughts)，偶尔会迷路 (sometimes I get lost)，但这才是探索的乐趣！(but that’s the fun of exploring!)',
+  'No right answers here，/n just a journey of learning, /n Sometimes I share my thoughts，/n sometimes I get lost，/n but that’s the fun of exploring!',
   MAGZINE_HOME_TIPS: '思考无界，记录有痕。', // 让提示语更符合博客氛围
 
 
